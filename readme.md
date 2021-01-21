@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vk8ltxxb78e7assc?svg=true)](https://ci.appveyor.com/project/fjfoxru/ahj-events2)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
