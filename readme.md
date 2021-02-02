@@ -1,3 +1,5 @@
+https://fjfoxru.github.io/ahj-events2/
+
 [![Build status](https://ci.appveyor.com/api/projects/status/vk8ltxxb78e7assc?svg=true)](https://ci.appveyor.com/project/fjfoxru/ahj-events2)
 
 Правила сдачи задания:
